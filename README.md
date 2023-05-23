@@ -197,7 +197,8 @@ Home target
 
 
 ##Program:
-/*
+
+```
 
 import sys
 import os
@@ -231,9 +232,17 @@ r.MoveL(p(1254.3,-793.956,621.299,-180,16.2113,180),[-17.094,-63.3582,49.9712,14
 r.MoveL(p(1354.51,-793.956,621.243,-180,16.2113,180),[-15.1431,-45.9352,20.6798,11.5454,70.4288,-14.5217],[0,0,0])
 r.ProgFinish(r"""Mainprog""")
 r.ProgSave(r"""C:/Users/Sudharshna/Documents/RoboDK""",r"""Mainprog""",True,r"""E:/RoboDK/Other/VSCodium/VSCodium.exe""")
-*/
- 
+
+```
+###Simulation:
+
+![kn 5](https://github.com/NAVEENKUMAR4325/Lab-Ex.-No---5-Design-simulate-an-environment-for-Robot-Painting-using-Robo-DK/assets/119479566/3f7478bd-c649-48b8-84b1-3fdc3a4e765a)
+
 
  
 ## Results of simulation :
+
+The painting environment for a serial manipluator has been created and the surface for the same has been thaught.
+
+
  
